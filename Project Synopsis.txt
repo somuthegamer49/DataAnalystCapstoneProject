@@ -1,0 +1,30 @@
+Hi! WELCOME TO MY IBM DATA ANALYST PROJECT!
+
+All the week files contain the progress of the project week wise.
+
+1. Week 1- Exploring the Dataset
+- THe dataset was explored using python language.
+(More details in capstone powerpoint presentation)
+
+2. Week 2- Data Wranling
+- The data was cleaned and wrangled to use it for exploratory data analysis.
+- Data was cleaned from duplicates and null values.
+- Normalization was done on a particular data series(salary column)
+(More details in capstone powerpoint presentation)
+
+3. Week 3- Exploratory Data Analysis
+- Data was explored with histograms and distribution plots.
+- Outliers were detected.
+- Outliers were removed.
+- Correlation was obtained.
+(More details in capstone powerpoint presentation)
+
+4. Week 4- Data Visualisation
+- Data Visualized with pie charts, bar charts and stacked bar charts
+- SQL querry was used and converted to dataframes using python.
+- graphs were plotted based on SQL querries.
+
+5. Powerpoint Presentation is the Capstone Project Report in PDF file.(Capstone story template 1)
+
+6. IBM COGNOS was used to create Dashboard with different graphs such as bar, column, treemap, bubble plot, line plot and so on.
+- Refer capstone powerpoint presentation to see the dashboard. 
